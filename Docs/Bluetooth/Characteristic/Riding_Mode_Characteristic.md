@@ -1,6 +1,7 @@
 # Riding Mode (`e659f302-ea98-11e3-ac10-0800200c9a66`)
 
-## Description:
+## Description
+
 The current riding mode.
 The modes available depend based on the connected Onewheel model:
 
@@ -16,13 +17,16 @@ The modes available depend based on the connected Onewheel model:
 | 8 | Delirium | - | X | X |
 | 9 | [Custom Shaping]() | - | X | X |
 
-## Values:
-Two bytes that represent an unsigned short.<br> 
+## Values
 
-## Handle:
+Two bytes that represent an unsigned short.
+
+## Handle
+
 `28`
 
-## Properties:
+## Properties
+
 | Property | Yes | No | Comment |
 |----------|-----|----| ------- |
 | Read     |  X  |    |    -    |

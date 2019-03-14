@@ -1,15 +1,19 @@
 # Serial Number (`e659f301-ea98-11e3-ac10-0800200c9a66`)
 
-## Description:
+## Description
+
 The serial number of the connected Onewheel.
 
-## Values:
+## Values
+
 Two bytes.
 
-## Handle:
+## Handle
+
 `24`
 
-## Properties:
+## Properties
+
 | Property | Yes | No | Comment |
 |----------|-----|----| ------- |
 | Read     |  X  |    |    -    |

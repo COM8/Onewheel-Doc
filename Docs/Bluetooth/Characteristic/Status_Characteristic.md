@@ -1,9 +1,11 @@
 # Status (`e659f30f-ea98-11e3-ac10-0800200c9a66`)
 
-## Description:
+## Description
+
 A collection of status flags.
 
-## Values:
+## Values
+
 Two bytes where each bit is a different status flag.
 
 | Bit | Flag name |
@@ -19,10 +21,12 @@ Two bytes where each bit is a different status flag.
 
 `0x0007` would mean `Rider detected`, `Rider detected pad 1` and `Rider detected pad 2`.
 
-## Handle:
+## Handle
+
 `80`
 
-## Properties:
+## Properties
+
 | Property | Yes | No | Comment |
 |----------|-----|----| ------- |
 | Read     |  X  |    |    -    |

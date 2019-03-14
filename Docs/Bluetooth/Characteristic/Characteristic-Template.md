@@ -1,20 +1,25 @@
 # Name (`e659f30f-ea98-11e3-ac10-0800200c9a66`)
 
-## Description:
+## Description
+
 A short description of the characteristic.
 
-## Values:
+## Values
+
 What are valid values for this characteristic and what do they represent (flags, string, short, ...).
 
-## Handle:
+## Handle
+
 `The handle of the characteristic`
 
-## Properties:
+## Properties
+
 | Property | Yes | No | Comment |
 |----------|-----|----| ------- |
 | Read     |  X  |    |    -    |
 | Write    |  X  |    |    -    |
 | Notify   |  X  |    |    -    |
 
-## References:
+## References
+
 A list of references.

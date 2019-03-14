@@ -1,11 +1,13 @@
 # Custom Shaping (`e659f31c-ea98-11e3-ac10-0800200c9a66`)
 
-## Description:
-Used to set/read the custom shaping profile.<br>
+## Description
+
+Used to set/read the custom shaping profile.  
 The Onewheel sends them about 6 times per second.
 It cycles through the attribute IDs (`1`, `2` and `3`).
 
-## Values:
+## Values
+
 Two bytes.
 
 * The first byte is an unsigned byte that represents the ID of the attribute (e.g. `0` stands for `Stance Profile`).
@@ -19,15 +21,18 @@ The following table shows all IDs and their value ranges:
 | Carve Ability | 1 | -100 | 100 |
 | Aggressiveness | 2 | -80 | 127 |
 
-## Handle:
+## Handle
+
 `132`
 
-## Properties:
+## Properties
+
 | Property | Yes | No | Comment |
 |----------|-----|----| ------- |
 | Read     |  X  |    |    -    |
 | Write    |  X  |    |    -    |
 | Notify   |  X  |    |    -    |
 
-## References:
+## References
+
 * Credits to [Nanoux](https://github.com/ponewheel/android-ponewheel/issues/86#issuecomment-450445851) for discovering how the `Custom Shaping` characteristic works
