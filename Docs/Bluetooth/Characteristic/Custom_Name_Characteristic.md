@@ -2,7 +2,7 @@
 
 ## Description
 
-Prior the [Gemini](/Firmware/Gemini.md) firmware this characteristic allowed to give your Onewheel a custom name.
+Prior the [Gemini](/Docs/Firmware/Gemini.md) firmware this characteristic allowed to give your Onewheel a custom name.
 
 ## Values
 
